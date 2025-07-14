@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="292b54f1-7c97-4044-b8b6-33d0a5f21798" name="Changes" comment="trying stack methods">
-      <change afterPath="$PROJECT_DIR$/src/StringReverser.java" afterDir="false" />
+    <list default="true" id="292b54f1-7c97-4044-b8b6-33d0a5f21798" name="Changes" comment="Reverse a string using stack">
+      <change afterPath="$PROJECT_DIR$/src/Stack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -45,7 +45,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1752414678245</updated>
-      <workItem from="1752414680827" duration="1987000" />
+      <workItem from="1752414680827" duration="2813000" />
     </task>
     <task id="LOCAL-00001" summary="nothing">
       <created>1752414778295</created>
@@ -61,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1752415229938</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Reverse a string using stack">
+      <created>1752479052876</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1752479052876</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,6 +88,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="nothing" />
     <MESSAGE value="trying stack methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="trying stack methods" />
+    <MESSAGE value="Reverse a string using stack" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reverse a string using stack" />
   </component>
 </project>
